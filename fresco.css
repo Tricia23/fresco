@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+}
+.imagelogo{
+    margin-left:80px;
+    margin-right: 570px;
+}
+ .navigation-bar{
+     margin-top: 20px;
+ }
+ a{
+     color: aliceblue;
+    }
+    a:hover {
+    color:#BF2666;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+    background-color:#BF2666;
+    border-radius:20px;
+}
+
+#plan{
+    background-color:rgb(145, 25, 75) ;
+    border-color: rgb(145, 25, 75);
+    border-radius:20px;
+}
+  .phone1{
+      margin-top: 30px;
+   margin-left:300px;
+  }
+
+.caption1{
+    margin-top: 150px;
+    font-weight: 500;
+    font-size: 40px;
+    margin-left: 150px;
+    color: beige;
+}
